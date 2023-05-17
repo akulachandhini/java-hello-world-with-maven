@@ -5,7 +5,7 @@
     <groupId>org.springframework</groupId>
     <artifactId>mavenbuild</artifactId>
     <packaging>jar</packaging>
-    <version>1</version>
+    <version>01</version>
 
     <!-- tag::joda[] -->
      <properties>
